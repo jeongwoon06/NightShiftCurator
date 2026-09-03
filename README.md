@@ -1,7 +1,5 @@
 # NightShiftCurator
 
-각 스크립트가 뭘 하는지랑 어디에 붙이는지 정리해드릴게요. 참고로 대부분은 NightSceneBuilder.cs가 Tools > Build Night Scene을 누르면 자동으로 다 붙여줘서 직접 손으로 붙일 필요는 없어요. 그래도 각각 뭘 하는지는 알고 계셔야 하니 정리합니다.
-
 Player 폴더
 
 PlayerController.cs — 붙이는 곳: Player 루트 오브젝트
